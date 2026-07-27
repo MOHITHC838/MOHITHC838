@@ -1,6 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHITH%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20CS%20Student&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHITH%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Portfolio%3A%20mohith2007.netlify.app&descAlignY=62&descSize=16)
+
+## 🌐 Portfolio
+🔗 **Live Portfolio:** https://mohith2007.netlify.app/
 
 </div>
 
